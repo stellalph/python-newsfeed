@@ -16,14 +16,16 @@ This Just Tech News application is refactored to use Python instead of Javascrip
 - [References](#references)
 - [License](#license)
 
-## Technologies
+## Technologies Used
 
 *   Python
 *   Flask
 *   MySQL
-*   SQLAlchemy
+*   PyMySQL
+*   SQLAlchemy (ORM)
 *   Gunicorn
 *   Jinja
+*   bycrpt
 
 ## Deployment
 
